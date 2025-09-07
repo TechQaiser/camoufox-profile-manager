@@ -33,6 +33,7 @@ cd camoufox-profile-manager
 Install & run with the helper script:
 
 python run.py
+```
 
 
 This will:
@@ -45,7 +46,7 @@ Fetch the Camoufox browser binary (if missing)
 
 Launch the GUI
 
-🔧 Requirements
+## 🔧 Requirements
 
 Python 3.9+
 
@@ -53,7 +54,7 @@ Windows/Linux/macOS
 
 Internet (for first-time camoufox fetch)
 
-🗂️ Project Structure
+# 🗂️ Project Structure
 camoufox-profile-manager/
 │── camoufox_manager.ui    # Qt Designer UI
 │── main_window.py         # main GUI logic
@@ -64,7 +65,7 @@ camoufox-profile-manager/
 │── requirements.txt
 │── README.md
 
-🚀 Usage
+# 🚀 Usage
 
 Start the app with python run.py (after first install).
 
@@ -74,30 +75,19 @@ Set viewport, proxy, or fullscreen.
 
 Launch → a Camoufox window opens with your settings.
 
-📋 Roadmap / TODO
+#📋 Roadmap / TODO
 
  Profile metadata (homepage, tags, notes)
-
  Profile cloning (duplicate)
-
  Export / import profiles (JSON)
-
  Proxy testing (IP & location check)
-
  Proxy pools / rotation
-
  Multi-launch (run multiple profiles at once)
-
  Activity log (last launch / close)
-
  Color tags for profiles
-
  Dashboard landing page
-
  Profile grid/card view
-
  Settings dialog (custom camoufox path, defaults)
-
  Build .exe releases with GitHub Actions (PyInstaller)
 
 🙏 Thanks
