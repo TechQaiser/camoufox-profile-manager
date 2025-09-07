@@ -77,7 +77,7 @@ Set viewport, proxy, or fullscreen.
 
 Launch → a Camoufox window opens with your settings.
 
-#📋 Roadmap / TODO
+# 📋 Roadmap / TODO
 
  Profile metadata (homepage, tags, notes)
  Profile cloning (duplicate)
@@ -92,7 +92,7 @@ Launch → a Camoufox window opens with your settings.
  Settings dialog (custom camoufox path, defaults)
  Build .exe releases with GitHub Actions (PyInstaller)
 
-🙏 Thanks
+## 🙏 Thanks
 
 Huge thanks to Camoufox
  for providing the privacy-focused browser engine this project is built on.
