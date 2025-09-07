@@ -3,7 +3,7 @@
 
 A **desktop GUI application** (PyQt5) for managing multiple [Camoufox](https://pypi.org/project/camoufox/) browser profiles, similar to GoLogin or Multilogin.
 
-![screenshot](docs/screenshot.png)
+![screenshot](docs/image.png)
 
 ---
 
@@ -32,7 +32,7 @@ cd camoufox-profile-manager
 
 Install & run with the helper script:
 
-python install.py
+python run.py
 
 
 This will:
