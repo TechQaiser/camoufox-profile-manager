@@ -55,6 +55,7 @@ Windows/Linux/macOS
 Internet (for first-time camoufox fetch)
 
 # 🗂️ Project Structure
+```
 camoufox-profile-manager/
 │── camoufox_manager.ui    # Qt Designer UI
 │── main_window.py         # main GUI logic
@@ -64,6 +65,7 @@ camoufox-profile-manager/
 │── profiles.json          # auto-created (stores profiles)
 │── requirements.txt
 │── README.md
+```
 
 # 🚀 Usage
 
